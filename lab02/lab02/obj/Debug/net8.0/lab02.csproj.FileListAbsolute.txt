@@ -1,0 +1,15 @@
+E:\уник\ООП\lab02\lab02\bin\Debug\net8.0\lab02.exe
+E:\уник\ООП\lab02\lab02\bin\Debug\net8.0\lab02.deps.json
+E:\уник\ООП\lab02\lab02\bin\Debug\net8.0\lab02.runtimeconfig.json
+E:\уник\ООП\lab02\lab02\bin\Debug\net8.0\lab02.dll
+E:\уник\ООП\lab02\lab02\bin\Debug\net8.0\lab02.pdb
+E:\уник\ООП\lab02\lab02\obj\Debug\net8.0\lab02.GeneratedMSBuildEditorConfig.editorconfig
+E:\уник\ООП\lab02\lab02\obj\Debug\net8.0\lab02.AssemblyInfoInputs.cache
+E:\уник\ООП\lab02\lab02\obj\Debug\net8.0\lab02.AssemblyInfo.cs
+E:\уник\ООП\lab02\lab02\obj\Debug\net8.0\lab02.csproj.CoreCompileInputs.cache
+E:\уник\ООП\lab02\lab02\obj\Debug\net8.0\lab02.sourcelink.json
+E:\уник\ООП\lab02\lab02\obj\Debug\net8.0\lab02.dll
+E:\уник\ООП\lab02\lab02\obj\Debug\net8.0\refint\lab02.dll
+E:\уник\ООП\lab02\lab02\obj\Debug\net8.0\lab02.pdb
+E:\уник\ООП\lab02\lab02\obj\Debug\net8.0\lab02.genruntimeconfig.cache
+E:\уник\ООП\lab02\lab02\obj\Debug\net8.0\ref\lab02.dll

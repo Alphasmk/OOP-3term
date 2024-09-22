@@ -11,45 +11,45 @@ namespace ConsoleApp1
 
             //a.
             bool a = false;
-            byte b = 122; // максимальное - 255, минимальное - 0
-            sbyte c = 100; // максимальное - 127, минимальное - -128
-            char d = 'a'; // символьный тип
-            decimal e = 4500000000000000000; // 28-29 знаков
-            double f = 1230000000000000; // 15-17 знаков
-            float g = 1.0f; // 6 - 9 знаков
-            int h = -155; // целочисленный тип
-            uint i = 155; // unsigned int;
-            long j = -56000000000; // от −9 223 372 036 854 775 808 до 9 223 372 036 854 775 807
-            ulong k = 56000000000; // unsigned long
-            short l = -15000; // от -32 768 до 32 767
-            ushort m = 15000; // unsigned short
+            byte b = 122; 
+            sbyte c = 100; 
+            char d = 'a'; 
+            decimal e = 4500000000000000000; 
+            double f = 1230000000000000; 
+            float g = 1.0f; 
+            int h = -155; 
+            uint i = 155; 
+            long j = -56000000000;
+            ulong k = 56000000000;
+            short l = -15000;
+            ushort m = 15000;
             Console.WriteLine($"bool: {a}, byte: {b}, sbyte: {c}, char: {d}, decimal: {e}, double: {f}, float: {g}, int: {h}, uint: {i}, long: {j}, ulong: {k}, short: {l}, ushort: {m}");
 
             //b.
             int x1 = 12000;
             long y1 = 160000;
-            y1 = x1; // преобразуем int в long неявно(без потери точности)
+            y1 = x1; 
             long x2 = -56000000000;
             float y2 = 1.0f;
-            y2 = x2; // преобразуем long в float неявно(без потери точности)
+            y2 = x2; 
             byte x3 = 123;
             decimal y3 = 4500000000000000000;
-            y3 = x3; // преобразуем byte в decimal неявно(без потери точности)
+            y3 = x3;
             long x4 = -56000000000;
             double y4 = 1230000000000000;
-            y4 = x4; // преобразуем long в double неявно(без потери точности)
+            y4 = x4;
             float x5 = 1.0f;
             double y5 = 1230000000000000;
-            y5 = x5; // преобразуем float в double неявно(без потери точности)
+            y5 = x5; 
 
             int x6 = 10;
             int y6 = 15;
-            byte z6 = (byte)(x6 + y6); // преобразуем сумму x6 и y6 из int в byte(потеря точности или данных)
+            byte z6 = (byte)(x6 + y6); 
             double x7 = 1230000000000000;
-            short x8 = (short)(x7); // преобразуем x7 из double в short неявно(потеря точности или данных)
-            byte x9 = (byte)(x7); // преобразуем x7 из double в byte неявно(потеря точности или данных)
-            ulong x10 = (ulong)(x7); // преобразуем x7 из double в ulong неявно(потеря точности или данных)
-            uint x11 = (uint)(x7); // преобразуем x7 из double в uint неявно(потеря точности или данных)
+            short x8 = (short)(x7); 
+            byte x9 = (byte)(x7);
+            ulong x10 = (ulong)(x7); 
+            uint x11 = (uint)(x7); 
 
             // double x12 = 150000000000;
             // int y12 = Convert.ToInt32(x12); Unhandled exception. System.OverflowException: Value was either too large or too small for an Int32.
@@ -59,11 +59,11 @@ namespace ConsoleApp1
             Console.WriteLine(y13);
 
             //c
-            object boxedNumber = 42; // Упаковка
-            int unboxedNumber = (int)boxedNumber; // Распаковка
+            object boxedNumber = 42;
+            int unboxedNumber = (int)boxedNumber; 
 
-            object boxedChar = 'c'; // Упаковка
-            char unboxedChar = (char)(boxedChar); // Распаковка
+            object boxedChar = 'c'; 
+            char unboxedChar = (char)(boxedChar); 
 
             //int test = 10;
             //object boxedTest = test;
@@ -73,29 +73,22 @@ namespace ConsoleApp1
 
             //d
             var isItInt = 5;
-            Console.WriteLine(isItInt.GetType()); // Результат - System.Int32
+            Console.WriteLine(isItInt.GetType()); 
 
             var isItChar = 'c';
-            Console.WriteLine(isItChar.GetType()); // Результат - System.Char
-            //Фактически, var - это аналогия auto в C++
-            //Компилятор автоматически определяет тип переменной из правой части ее объявления, что позволяет сделать код более читаемым и удобным в понимании
+            Console.WriteLine(isItChar.GetType()); 
 
             //e
-            int test1; // Не допускает null
-            int? test2; // Допускает null
+            int test1; 
+            int? test2; 
 
-            // test1 = null; Не удается преобразовать значение NULL в "int", поскольку этот тип значений не допускает значение NULL
+            
             test2 = null;
 
-            // Nullble переменная - переменная, которой можно присвоить значение null(она может быть пустой)
 
             //f
             var varTest = 15;
             // varTest = "hello world!"; CS0029 Не удается неявно преобразовать тип "string" в "int".
-
-
-            //Причины ошибки заключается в том, что, при присвоении var переменной значения, она становится статически типизированной. И после этого,
-            //если попытаться присвоить ей значение другого типа данных - появится ошибка, так как, в данном случае, переменная varTest уже определяется как Int.
 
             //2
             //a
@@ -117,23 +110,23 @@ namespace ConsoleApp1
             string stroke1 = "a";
             string stroke2 = "b";
             string stroke3 = "c";
-            string resultStroke = stroke1 + stroke2 + stroke3; // сцепление
+            string resultStroke = stroke1 + stroke2 + stroke3;
             Console.WriteLine(resultStroke);
-            string stroke4 = String.Copy(stroke1); // копирование
+            string stroke4 = String.Copy(stroke1); 
             Console.WriteLine(stroke4);
             string stroke5 = "Hello world!";
-            string stroke6 = stroke5.Substring(6); // выделение подстроки
+            string stroke6 = stroke5.Substring(6);
             Console.WriteLine(stroke6);
             string stroke7 = "London is a capital of Great Britain";
-            string[] words = stroke7.Split(' '); // разделение строки на слова
+            string[] words = stroke7.Split(' '); 
             for (int q = 0; q < words.Length; q++)
             {
-                Console.WriteLine($"{q + 1}: <{words[q]}>"); // интерполирование строки
+                Console.WriteLine($"{q + 1}: <{words[q]}>"); 
             }
             string stroke8 = "beautiful ";
-            stroke5 = stroke5.Insert(6, stroke8); // вставка подстроки
+            stroke5 = stroke5.Insert(6, stroke8); 
             Console.WriteLine(stroke5);
-            stroke5 = stroke5.Remove(5, 10); // удаление заданной подстроки
+            stroke5 = stroke5.Remove(5, 10); 
             Console.WriteLine(stroke5);
 
             //c
@@ -142,7 +135,7 @@ namespace ConsoleApp1
             Console.WriteLine($"stroke 9 is null or empty: {string.IsNullOrEmpty(stroke9)}");
             Console.WriteLine($"stroke 10 is null or empty: {string.IsNullOrEmpty(stroke10)}");
             Console.WriteLine($"stroke 5 is null or empty: {string.IsNullOrEmpty(stroke5)}");
-            //К примеру, еще можно проверить строку на пустоту или состоит ли она только из пробелов
+            
             string stroke11 = " ";
             Console.WriteLine($"stroke 9 is null or white space: {string.IsNullOrWhiteSpace(stroke11)}");
             Console.WriteLine($"stroke 11 is null or white space: {string.IsNullOrWhiteSpace(stroke11)}");
@@ -227,8 +220,8 @@ namespace ConsoleApp1
             }
 
             //d
-            var varMas = new[] { 1, 2, 3 }; // неявно типизированная переменная для хранения массива
-            var varStr = "Hello world"; // неявно типизированная переменная для хранения строки
+            var varMas = new[] { 1, 2, 3 }; 
+            var varStr = "Hello world";
    
             //4
             //a
@@ -240,7 +233,7 @@ namespace ConsoleApp1
             Console.WriteLine(vyvod2);
 
             //c
-            var (age, fio, letter, school, avg) = cort; // Распаковка в отдельные переменные
+            var (age, fio, letter, school, avg) = cort; 
             Console.WriteLine($"Возраст: {age}, ФИО: {fio}, Буква класса: {letter}, Школа: {school}, Средний балл: {avg}");
             // Также, к примеру, можно распаковать кортеж с использованием символа нижнего подчеркивания(_), чтобы пропустить присваивание значения переменной
             // var (age, _, letter, school, _) = cort;
@@ -286,7 +279,7 @@ namespace ConsoleApp1
             return (max, min, sum, fst);
         }
 
-        public static int CheckedTest() // Функция выдает исключение о переполнении: Unhandled exception. System.OverflowException: Arithmetic operation resulted in an overflow.
+        public static int CheckedTest() 
         {
             int maxInt = int.MaxValue;
             checked
@@ -296,7 +289,7 @@ namespace ConsoleApp1
             return maxInt;
         }
 
-        public static int UncheckedTest() // Данная функция не выдает исключение, потому что оператор unchecked отключается проверку на переполнение типа.
+        public static int UncheckedTest() 
         {
             int maxInt = int.MaxValue;
             unchecked
@@ -306,5 +299,4 @@ namespace ConsoleApp1
             return maxInt;
         }
     }
-
 }
