@@ -1,0 +1,10 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:SavingsAccount id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab13/lab13%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Name_x003E_k__BackingField id="ref-2">Герман</_x003C_Name_x003E_k__BackingField>
+      <_x003C_SecondName_x003E_k__BackingField id="ref-3">Статько</_x003C_SecondName_x003E_k__BackingField>
+      <_x003C_Address_x003E_k__BackingField id="ref-4">БГТУ</_x003C_Address_x003E_k__BackingField>
+      <_x003C_Balance_x003E_k__BackingField>22</_x003C_Balance_x003E_k__BackingField>
+    </a1:SavingsAccount>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,28 @@
+Список папок:
+C:\$RECYCLE.BIN
+C:\AMD
+C:\Autodesk
+C:\Autoruns
+C:\AutoSettingsPS
+C:\Config.Msi
+C:\Documents and Settings
+C:\Log
+C:\MSOCache
+C:\msys64
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Ruby32-x64
+C:\System Volume Information
+C:\Temp
+C:\Users
+C:\Windows
+Список файлов:
+C:\appverifUI.dll
+C:\DumpStack.log
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\Output.txt
+C:\pagefile.sys
+C:\swapfile.sys
+C:\vfcompat.dll

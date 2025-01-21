@@ -1,0 +1,15 @@
+E:\unic\ООП\lab14\lab14\bin\Debug\net8.0\lab14.exe
+E:\unic\ООП\lab14\lab14\bin\Debug\net8.0\lab14.deps.json
+E:\unic\ООП\lab14\lab14\bin\Debug\net8.0\lab14.runtimeconfig.json
+E:\unic\ООП\lab14\lab14\bin\Debug\net8.0\lab14.dll
+E:\unic\ООП\lab14\lab14\bin\Debug\net8.0\lab14.pdb
+E:\unic\ООП\lab14\lab14\obj\Debug\net8.0\lab14.GeneratedMSBuildEditorConfig.editorconfig
+E:\unic\ООП\lab14\lab14\obj\Debug\net8.0\lab14.AssemblyInfoInputs.cache
+E:\unic\ООП\lab14\lab14\obj\Debug\net8.0\lab14.AssemblyInfo.cs
+E:\unic\ООП\lab14\lab14\obj\Debug\net8.0\lab14.csproj.CoreCompileInputs.cache
+E:\unic\ООП\lab14\lab14\obj\Debug\net8.0\lab14.sourcelink.json
+E:\unic\ООП\lab14\lab14\obj\Debug\net8.0\lab14.dll
+E:\unic\ООП\lab14\lab14\obj\Debug\net8.0\refint\lab14.dll
+E:\unic\ООП\lab14\lab14\obj\Debug\net8.0\lab14.pdb
+E:\unic\ООП\lab14\lab14\obj\Debug\net8.0\lab14.genruntimeconfig.cache
+E:\unic\ООП\lab14\lab14\obj\Debug\net8.0\ref\lab14.dll

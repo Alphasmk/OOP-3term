@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clients>
+  <Client>
+    <Name>Герман</Name>
+    <SecondName>Статько</SecondName>
+    <Address>БГТУ</Address>
+    <Balance>12</Balance>
+  </Client>
+  <Client>
+    <Name>Иван</Name>
+    <SecondName>Иванов</SecondName>
+    <Address>БГТУ</Address>
+    <Balance>42</Balance>
+  </Client>
+  <Client>
+    <Name>Вадим</Name>
+    <SecondName>Иванов</SecondName>
+    <Address>БГТУ</Address>
+    <Balance>32</Balance>
+  </Client>
+</Clients>

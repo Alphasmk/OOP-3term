@@ -1,0 +1,15 @@
+E:\уник\ООП\lab11\lab11\bin\Debug\net8.0\lab11.exe
+E:\уник\ООП\lab11\lab11\bin\Debug\net8.0\lab11.deps.json
+E:\уник\ООП\lab11\lab11\bin\Debug\net8.0\lab11.runtimeconfig.json
+E:\уник\ООП\lab11\lab11\bin\Debug\net8.0\lab11.dll
+E:\уник\ООП\lab11\lab11\bin\Debug\net8.0\lab11.pdb
+E:\уник\ООП\lab11\lab11\obj\Debug\net8.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+E:\уник\ООП\lab11\lab11\obj\Debug\net8.0\lab11.AssemblyInfoInputs.cache
+E:\уник\ООП\lab11\lab11\obj\Debug\net8.0\lab11.AssemblyInfo.cs
+E:\уник\ООП\lab11\lab11\obj\Debug\net8.0\lab11.csproj.CoreCompileInputs.cache
+E:\уник\ООП\lab11\lab11\obj\Debug\net8.0\lab11.sourcelink.json
+E:\уник\ООП\lab11\lab11\obj\Debug\net8.0\lab11.dll
+E:\уник\ООП\lab11\lab11\obj\Debug\net8.0\refint\lab11.dll
+E:\уник\ООП\lab11\lab11\obj\Debug\net8.0\lab11.pdb
+E:\уник\ООП\lab11\lab11\obj\Debug\net8.0\lab11.genruntimeconfig.cache
+E:\уник\ООП\lab11\lab11\obj\Debug\net8.0\ref\lab11.dll

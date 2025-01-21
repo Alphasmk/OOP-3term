@@ -1,0 +1,15 @@
+E:\unic\ООП\lab12\lab_12\bin\Debug\net8.0\lab_12.exe
+E:\unic\ООП\lab12\lab_12\bin\Debug\net8.0\lab_12.deps.json
+E:\unic\ООП\lab12\lab_12\bin\Debug\net8.0\lab_12.runtimeconfig.json
+E:\unic\ООП\lab12\lab_12\bin\Debug\net8.0\lab_12.dll
+E:\unic\ООП\lab12\lab_12\bin\Debug\net8.0\lab_12.pdb
+E:\unic\ООП\lab12\lab_12\obj\Debug\net8.0\lab_12.GeneratedMSBuildEditorConfig.editorconfig
+E:\unic\ООП\lab12\lab_12\obj\Debug\net8.0\lab_12.AssemblyInfoInputs.cache
+E:\unic\ООП\lab12\lab_12\obj\Debug\net8.0\lab_12.AssemblyInfo.cs
+E:\unic\ООП\lab12\lab_12\obj\Debug\net8.0\lab_12.csproj.CoreCompileInputs.cache
+E:\unic\ООП\lab12\lab_12\obj\Debug\net8.0\lab_12.sourcelink.json
+E:\unic\ООП\lab12\lab_12\obj\Debug\net8.0\lab_12.dll
+E:\unic\ООП\lab12\lab_12\obj\Debug\net8.0\refint\lab_12.dll
+E:\unic\ООП\lab12\lab_12\obj\Debug\net8.0\lab_12.pdb
+E:\unic\ООП\lab12\lab_12\obj\Debug\net8.0\lab_12.genruntimeconfig.cache
+E:\unic\ООП\lab12\lab_12\obj\Debug\net8.0\ref\lab_12.dll

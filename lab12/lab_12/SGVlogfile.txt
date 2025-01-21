@@ -1,0 +1,17 @@
+20.12.2024 16:00:42
+Действие: RNADiskInfo.getFreeDrivesSpace()
+----------
+20.12.2024 16:00:42
+Действие: RNAFileInfo.WriteFileInfo()
+Имя файла: RNALogfile.txt
+Путь к файлу: E:\unic\ООП\lab12\RNAlogfile.txt
+----------
+20.12.2024 16:00:42
+Действие: RNADirInfo.WriteDirInfo()
+----------
+20.12.2024 16:00:42
+Действие: RNAFileManager.InspectDriver()
+----------
+20.12.2024 16:00:42
+Действие: RNAFileManager.CopyFiles()
+----------
